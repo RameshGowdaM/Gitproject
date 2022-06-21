@@ -1,2 +1,0 @@
-# Gitproject
-For practice 

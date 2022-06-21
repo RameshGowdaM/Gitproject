@@ -1,0 +1,14 @@
+{
+  "test1": {
+    "going_from_origin": "Mumbai",
+    "going_to_dest": "JFK",
+    "going_depart_date": "25/02/2022",
+    "stop_filter": "1 Stop"
+  },
+  "test2": {
+    "going_from_origin": "New",
+    "going_to_dest": "MLB",
+    "going_depart_date": "27/02/2022",
+    "stop_filter": "2 Stop"
+  }
+}
